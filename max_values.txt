@@ -1,0 +1,32 @@
+These are the upper limits chosen for each numeric column.
+Any value above these limits will be considered as an outlier and will be removed from the dataset,
+and replaced by the most occurring value in that column of that person.
+
+ID:                         /
+Customer_ID:                /
+Month:                      /
+Age:                        56
+Occupation:                 /
+Annual_Income:              179987.28
+Monthly_Inhand_Salary:      15204.63
+Num_Bank_Accounts:          11
+Num_Credit_Card:            11
+Interest_Rate:              34 
+Num_of_Loan:                9
+Type_of_Loan:               /   
+Delay_from_due_date:        67
+Num_of_Delayed_Payment:     28
+Changed_Credit_Limit:       34.21
+Num_Credit_Inquiries:       17
+Credit_Mix:                 /
+Outstanding_Debt:           4998.07
+Credit_Utilization_Ratio:   43.06
+Credit_History_Age:         /
+Payment_of_Min_Amount:      /
+Total_EMI_per_month:        1841.35
+Amount_invested_monthly:    /
+Payment_Behaviour:          /
+Monthly_Balance:            /
+Credit_Score:               /
+
+Amount_invested_monthly, Monthly_Balance is excluded as these columns do not appear to have error values.
